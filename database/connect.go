@@ -5,7 +5,7 @@ import (
     "log"
     "strconv"
 
-    "github.com/percoguru/notes-api-fiber/config"
+    "github.com/ugongmk/fiber/config"
     "gorm.io/driver/postgres"
     "gorm.io/gorm"
 )
